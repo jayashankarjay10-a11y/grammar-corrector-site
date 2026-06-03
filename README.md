@@ -1,1 +1,1 @@
-# grammar-corrector-site
+# grammar-corrector-privacy-policy
